@@ -1,0 +1,27 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding-left: 80px; 
+    padding-right: 80px;
+    z-index: 1000;
+  }
+  .navbar-nav {
+    margin-left: auto; 
+  }
+  .banner {
+    max-height: 650px;
+    overflow: hidden;
+    margin-top: 56px;
+  }
+  .banner img {
+    width: 100%;
+    object-fit: cover;
+  }
+  .iframe-container {
+    text-align: center; 
+  }
+  .iframe-container iframe {
+    width: 1000px; 
+    height: 600px;
+  }
